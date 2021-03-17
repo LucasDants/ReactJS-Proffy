@@ -6,8 +6,8 @@
 
 <p align="center">
  <img  src="https://img.shields.io/github/package-json/dependency-version/Luksdantas/ReactJS-Proffy/react" alt="React Version">
-<img  src="https://img.shields.io/github/package-json/dependency-version/Luksdantas/ReactJS-Proffy/axios" alt="Axios Version">
- <img  src="https://img.shields.io/github/package-json/dependency-version/Luksdantas/ReactJS-Proffy/dev/typescript" alt="Typescript Version">
+ <img  src="https://img.shields.io/github/package-json/dependency-version/Luksdantas/ReactJS-Proffy/axios" alt="Axios Version">
+ <img  src="https://img.shields.io/github/package-json/dependency-version/Luksdantas/ReactJS-Proffy/typescript" alt="Typescript Version">
 </p>
 
 <h1>:memo:About</h1>

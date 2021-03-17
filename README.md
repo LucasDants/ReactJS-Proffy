@@ -1,7 +1,7 @@
 <p align="center">
-<img src="https://github.com/Luksdantas/ReactNative-Proffy/blob/main/src/assets/logo.png"/>
+<img src="https://github.com/Luksdantas/ReactNative-Proffy/blob/main/src/assets/images/landing.png"/>
 </p>
-<h1 align="center">🏆 Proffy Web 🏆</h1>
+<h1 align="center">📚: Proffy Web 📚</h1>
 <p align="center">Proffy is way to find teachers!</p>
 
 <p align="center">

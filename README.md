@@ -1,44 +1,57 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<p align="center">
+<img src="https://github.com/Luksdantas/ReactNative-Proffy/blob/main/src/assets/logo.png"/>
+</p>
+<h1 align="center">🏆 Proffy Web 🏆</h1>
+<p align="center">Proffy is way to find teachers!</p>
 
-## Available Scripts
+<p align="center">
+ <img  src="https://img.shields.io/github/package-json/dependency-version/Luksdantas/ReactJS-Proffy/react" alt="React Version">
+<img  src="https://img.shields.io/github/package-json/dependency-version/Luksdantas/ReactJS-Proffy/axios" alt="Axios Version">
+ <img  src="https://img.shields.io/github/package-json/dependency-version/Luksdantas/ReactJS-Proffy/dev/typescript" alt="Typescript Version">
+</p>
 
-In the project directory, you can run:
+<h1>:memo:About</h1>
+<p>Proffy is a project developed during the <a href="https://nextlevelweek.com/">Next Level Week 2</a> presented by <a href="https://www.linkedin.com/school/rocketseat/">Rockeseat</a>. This project is a way to find teachers.</p>
+<p>API: <a href="https://github.com/Luksdantas/NodeJS-Proffy">Proffy API</a></p>
+<p>Mobile: <a href="https://github.com/Luksdantas/ReactNative-Proffy">Proffy Mobile</a></p>
 
-### `yarn start`
+<h1>:art:Layout</h1>
+<img  src="https://github.com/Luksdantas/ReactJS-Proffy/blob/main/screenshots/homepage.png" alt="Home Screenshot">
+<img  src="https://github.com/Luksdantas/ReactJS-Proffy/blob/main/screenshots/register1.png" alt="Register Screenshot">
+<img  src="https://github.com/Luksdantas/ReactJS-Proffy/blob/main/screenshots/register2.png" alt="Register Screenshot">
+<img  src="https://github.com/Luksdantas/ReactJS-Proffy/blob/main/screenshots/searchclasses.png" alt="Search classes Home Screenshot">
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+<p style="display: flex; flex-direction: row; align: center">
+<img  src="https://github.com/Luksdantas/ReactJS-Proffy/blob/main/screenshots/homepagemobile.png" width="350px" height="700px" alt="Map Marker Screenshot">
+<img  src="https://github.com/Luksdantas/ReactJS-Proffy/blob/main/screenshots/searchclassesmobile.png" width="350px" height="700px" alt="Profile Screenshot">
+</p>
+<p style="display: flex; flex-direction: row; align: center">
+<img  src="https://github.com/Luksdantas/ReactJS-Proffy/blob/main/screenshots/registermobile1.png" width="350px" height="700px" alt="Map Marker Screenshot">
+<img  src="https://github.com/Luksdantas/ReactJS-Proffy/blob/main/screenshots/registermobile2.png" width="350px" height="700px" alt="Profile Screenshot">
+</p>
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
 
-### `yarn test`
+<h1>:rocket: Getting started</h1>
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+```bash
 
-### `yarn build`
+# Clone this repository
+$ git clone https://github.com/Luksdantas/ReactJS-Proffy.git
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+# Access the project folder cmd/terminal
+$ cd ReactJS-Proffy
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+# install the dependencies
+$ npm install
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+# Run the application in development mode
+$ npm run dev
 
-### `yarn eject`
+# The application will open on the port: 3000 - go to http://localhost:3000
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+```
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+<h1>:bookmark_tabs: License</h1>
+ <img  src="https://img.shields.io/github/license/Luksdantas/ReactJS-Proffy" alt="License">
+ 
+ <p>Made with :heart: by Lucas Dantas 👋🏽 <a href="https://www.linkedin.com/in/luksdantas/">Get in Touch!</a></p>

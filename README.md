@@ -45,7 +45,7 @@ $ cd ReactJS-Proffy
 $ npm install
 
 # Run the application in development mode
-$ npm run dev
+$ npm start
 
 # The application will open on the port: 3000 - go to http://localhost:3000
 
